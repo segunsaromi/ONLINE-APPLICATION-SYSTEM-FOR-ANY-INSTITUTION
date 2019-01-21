@@ -5,6 +5,8 @@ Firstly i will suggest you upload the sql file. Remove .sql extension and the re
 
 I used root and no password. So for the purpose of this application testing you can create a database with root and no password.
 
+The first folder to reference from the home page is onlineapp/ 
+
 This application is simple to use. A prospective students would apply. Aftter application they are required to take note of their application number and phoe number used.
 
 After application i did it in such a way that school fees is automatically added to such application since we cant be doing payment right now on the test application. So they are required to sign-up and create a password which they will use to sign-in in order to complete their registration and submit their form.
