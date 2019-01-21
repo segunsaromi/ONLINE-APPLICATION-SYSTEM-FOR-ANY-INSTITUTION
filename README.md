@@ -7,7 +7,7 @@ I used root and no password. So for the purpose of this application testing you 
 
 This application is simple to use. A prospective students would apply. Aftter application they are required to take note of their application number and phoe number used.
 
-After application i did it in such a way that school fees is automatically added to such application snce we cant be doing payment right now. So they are required to sign-up and create a password which they will use to sign-in in order to complete their registration and submit their form.
+After application i did it in such a way that school fees is automatically added to such application since we cant be doing payment right now on the test application. So they are required to sign-up and create a password which they will use to sign-in in order to complete their registration and submit their form.
 
 When they login they will see the status of their application form filling and are required to complete the information required (e.g. passport photograph, SSCE result and other information.)
 
