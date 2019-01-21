@@ -17,4 +17,4 @@ Without them completeng these information the application will not allow them su
 
 This application has lots more features and there are lots more feature i want to add to it but at the moment i am busy with other development and would visit it soon.
 
-Please note: I have been playing around this code for a while and hope to put perfection on it like creating a connect file rather than referencing it on every page and using more functions to minmize coding.
+Please note: I have been playing around this code for a while and hope to put perfection on it like using a connect file rather than on pages on some occasions, commenting and using more functions to minmize coding.
