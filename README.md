@@ -5,7 +5,7 @@ Firstly i will suggest you upload the sql file. Remove .sql extension and the re
 
 I used root and no password. So for the purpose of this application testing you can create a database with root and no password.
 
-The first folder to reference from the home page is onlineapp/ 
+Please ignore the login folder listed here. inside the onlineapp folder is where every code is placed and useful folder is (onlineapp and login folder). The first folder to reference from the home page is the onlineapp folder here. 
 
 This application is simple to use. A prospective students would apply. Aftter application they are required to take note of their application number and phoe number used.
 
